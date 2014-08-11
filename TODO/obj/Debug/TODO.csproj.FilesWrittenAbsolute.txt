@@ -1,0 +1,12 @@
+/Users/daniel/Projects/TODO/TODO/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/daniel/Projects/TODO/TODO/bin/TODO.dll.mdb
+/Users/daniel/Projects/TODO/TODO/bin/TODO.dll
+/Users/daniel/Projects/TODO/TODO/obj/Debug/TODO.dll
+/Users/daniel/Projects/TODO/TODO/obj/Debug/TODO.dll.mdb
+/Users/daniel/Projects/TODO/TODO/bin/Microsoft.Web.Infrastructure.dll
+/Users/daniel/Projects/TODO/TODO/bin/System.Web.Razor.dll
+/Users/daniel/Projects/TODO/TODO/bin/System.Web.Helpers.dll
+/Users/daniel/Projects/TODO/TODO/bin/System.Web.WebPages.dll
+/Users/daniel/Projects/TODO/TODO/bin/System.Web.WebPages.Deployment.dll
+/Users/daniel/Projects/TODO/TODO/bin/System.Web.WebPages.Razor.dll
+/Users/daniel/Projects/TODO/TODO/bin/System.Web.Mvc.dll
